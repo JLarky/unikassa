@@ -14,7 +14,7 @@ include("unikassa.php");
 $uni = new Unikassa();
 $imageid=$uni->getimage();
 if($imageid) {
-echo "<a href=\"index.php\">В начало</a>\n";
+echo "<a href=\"./\">В начало</a>\n";
 } else {
 echo "Произошла ошибка. Если вы видите это сообщение с 2 до 4 ночи, то это нормально, потому что у них в это время профилактика";
 exit;
