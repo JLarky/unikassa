@@ -8,6 +8,14 @@
 <body>
 <p>Поздравляю ) теперь работать с уникартами можно не имея инета, на данный момент доступна <a href="unibalance.php">проверка баланса уникарты</a> и <a href="univtc.php">оплата услуг ВТЦ</a></p>
 
+<p>У данного сайта имеется два зеркала:</p>
+<ul>
+<li><a href="http://punklan.net/unikassa/">http://punklan.net/unikassa/</a></li>
+<li><a href="http://marp.free-tools.ru/unikassa/"> http://marp.free-tools.ru/unikassa/</a></li>
+</ul>
+
 <p>Однако учтите. Трафик между Вами и моим компьютером не шифруется, поэтому потенциально злоумышленник может перехватить ваш пин. Возможно со временем я исправлю это положение.</p>
+
+<div style="text-align:center;"> (с) JLarky, невесть какой год </div>
 </body>
 </html>
