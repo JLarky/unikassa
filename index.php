@@ -11,8 +11,8 @@
 <p>У данного сайта имеется два зеркала:</p>
 <ul>
 <li><a href="http://punklan.net/unikassa/">http://punklan.net/unikassa/</a></li>
-<li><a href="http://marp.free-tools.ru/unikassa/"> http://marp.free-tools.ru/unikassa/</a></li>
-<li><a href="http://kirill.punklan.net/unikassa/"> http://kirill.punklan.net/unikassa/</a> (в тестовом режиме)</li>
+<li><a href="http://kirill.punklan.net/unikassa/">http://kirill.punklan.net/unikassa/</a></li>
+<li><a href="http://marp.free-tools.ru/unikassa/">http://marp.free-tools.ru/unikassa/</a> (временно не работает)</li>
 </ul>
 
 <p>Однако учтите. Трафик между Вами и моим компьютером не шифруется, поэтому потенциально злоумышленник может перехватить ваш пин. Возможно со временем я исправлю это положение.</p>
