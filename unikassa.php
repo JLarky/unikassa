@@ -57,7 +57,7 @@ $vars=$this->postvars(Array('n_act'=>"1" ,'pin'=>$pin ,'ccode'=>$ccode ,'id_img'
     fwrite($fp, $out.$vars);
     while (!feof($fp)) {
 $s=fgets($fp);
-$s=iconv("cp1251", "utf8", $s);
+$s=iconv("cp1251", "utf-8", $s);
 $sout=trim($s);
 $mathc=65;
 if ( substr($sout ,0, $mathc) == substr("Баланс вашей уникарты составляет <b>", 0, $mathc) ) {
@@ -99,7 +99,7 @@ $vars=$this->postvars(Array('n_act'=>"2" ,'pin'=>$pin ,'ccode'=>$ccode ,'id_img'
 $i=0;
     while (!feof($fp)) {
 $s=fgets($fp);
-$s=iconv("cp1251", "utf8", $s);
+$s=iconv("cp1251", "utf-8", $s);
 $sout=trim($s);
 // $mathc=65;
 // if ( substr($sout ,0, $mathc) == substr("Баланс вашей уникарты составляет <b>", 0, $mathc) ) {
